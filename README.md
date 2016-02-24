@@ -86,4 +86,6 @@ func main() {
 
 ```
 
-For the above transform you'd of course need to add the `:9090/reverseDNS` path to your TDS server (the [public one](https://cetas.paterva.com/TDS/), or [your own](http://www.paterva.com/web6/sales/server.php?))
+For the above transform you'd of course need to add the `:9090/reverseDNS` path to your TDS server (the [public one](https://cetas.paterva.com/TDS/), or [your own](http://www.paterva.com/web6/sales/server.php?)). e.g:
+
+![TDS Config](example.png?raw=true "TDS Config")
