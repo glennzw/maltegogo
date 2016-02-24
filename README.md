@@ -2,6 +2,10 @@
 
 Translation of the Python Maltego [TDS library](http://www.paterva.com/web6/documentation/developer-tds.php), allowing you to create amazingly fast Go Transforms.
 
+# Installation
+
+`go get github.com/glennzw/maltegogo`
+
 # A taste of maltegogo
 
 To get a taste of maltegogo, try this:
